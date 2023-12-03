@@ -9,6 +9,8 @@ import re
 import pandas as pd
 
 cmap = plt.get_cmap('viridis')
+
+#======RUN THIS TO DOWNLOAD SPELL DATA THAT IS USED LATER
 """# Opening JSON file
 f = open('spells.json')
   
